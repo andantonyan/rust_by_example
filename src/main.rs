@@ -83,7 +83,9 @@ pub mod macro_rules_designators;
 pub mod macro_rules_overload;
 pub mod macro_rules_repeat;
 pub mod macro_rules_dry;
+pub mod error_handling;
+pub mod error_handling_option_unwrap;
 
 fn main() {
-  macro_rules_dry::main();
+
 }
