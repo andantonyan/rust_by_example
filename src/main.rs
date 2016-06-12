@@ -82,10 +82,15 @@ pub mod macro_rules;
 pub mod macro_rules_designators;
 pub mod macro_rules_overload;
 pub mod macro_rules_repeat;
-pub mod macro_rules_dry;
+//pub mod macro_rules_dry;
 pub mod error_handling;
 pub mod error_handling_option_unwrap;
+pub mod error_handling_map;
+pub mod error_handling_and_then;
+pub mod error_handling_result;
+pub mod error_handling_map_for_result;
+pub mod error_handling_aliases_for_result;
+//pub mod error_handling_options_with_results;
 
-fn main() {
-
+pub fn main() {
 }
