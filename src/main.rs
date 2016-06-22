@@ -91,6 +91,17 @@ pub mod error_handling_result;
 pub mod error_handling_map_for_result;
 pub mod error_handling_aliases_for_result;
 //pub mod error_handling_options_with_results;
+pub mod error_handling_options_with_results_strings_as_errors;
+//pub mod error_handling_options_with_results_combining_separate_combinators;
+//pub mod error_handling_options_with_results_enter_try;
+pub mod error_handling_limits_of_strings;
+pub mod error_handling_re_enter_try;
+pub mod error_handling_re_enabling_box;
+pub mod std_library;
+pub mod std_library_box_stack_heap;
+pub mod std_library_vectors;
+pub mod std_library_strings;
 
 pub fn main() {
+
 }
