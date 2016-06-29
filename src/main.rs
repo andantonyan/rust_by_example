@@ -101,7 +101,13 @@ pub mod std_library;
 pub mod std_library_box_stack_heap;
 pub mod std_library_vectors;
 pub mod std_library_strings;
+pub mod std_library_option;
+pub mod std_library_result;
+pub mod std_library_try;
+pub mod std_library_panic;
+pub mod std_library_hash_map;
+pub mod std_library_hash_map_alternate_custom_key;
+pub mod std_library_hash_map_hash_set;
 
 pub fn main() {
-
 }
