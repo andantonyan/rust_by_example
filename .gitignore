@@ -6,3 +6,4 @@ target
 *.rlib
 *.iml
 Cargo.lock
+doc

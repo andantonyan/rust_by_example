@@ -108,6 +108,22 @@ pub mod std_library_panic;
 pub mod std_library_hash_map;
 pub mod std_library_hash_map_alternate_custom_key;
 pub mod std_library_hash_map_hash_set;
+pub mod std_misc_threads;
+pub mod std_misc_channels;
+pub mod std_misc_path;
+pub mod std_misc_file_io_open;
+pub mod std_misc_file_io_create;
+pub mod std_misc_child_processes;
+pub mod std_misc_child_processes_pipes;
+pub mod std_misc_child_processes_wait;
+//pub mod std_misc_filesystem_operations;
+pub mod std_misc_program_arguments;
+pub mod std_misc_program_arguments_arguments_parsing;
+//pub mod std_misc_foreign_funtion_interface;
+//pub mod meta_documentation;
+//pub mod meta_testing;
+//pub mod unsafe_operations;
 
 pub fn main() {
+
 }
